@@ -1,0 +1,14 @@
+.storage/app/debugbar/
+.storage/app/livewire-tmp/
+.storage/media-library/
+.storage/app/public/
+!storage/app/public/style/
+.storage/logs/
+storage/oauth-private.key
+storage/oauth-public.key
+database/database.sqlite
+.env
+.vendor/
+.node_modules/
+bootstrap/cache/services.php
+.idea/
